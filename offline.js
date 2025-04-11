@@ -1,11 +1,11 @@
 ﻿{
-	"version": 1744228707,
+	"version": 1744367645,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
-		"images/spritefont.png",
+		"images/алфавит.png",
 		"images/фонменю-sheet0.png",
 		"images/фондактиль1-sheet0.png",
 		"images/кнопкаповорот-sheet0.png",
